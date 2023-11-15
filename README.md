@@ -33,8 +33,8 @@ End the program.
 ...
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: Ragul E
-RegisterNumber:212221043005
+Developed by: Rahul K 
+RegisterNumber: 212221043006
 */
 
 
